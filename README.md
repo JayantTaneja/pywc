@@ -14,6 +14,8 @@ pip3 install -e .
 
 ### Usage
 
+![](usage_demo.mp4)
+
 Pretty much the same as unix wc tool ``` pywc <filename> [flags]``` . Following are the supported flags :
 
 ```bash
