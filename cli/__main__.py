@@ -5,7 +5,7 @@ def build_parser():
     ''' Returns parser (argparse.ArgumentParser)'''
 
     parser = argparse.ArgumentParser(
-        prog = "py-wc",
+        prog = "pywc",
         description = "A Python implementation of wc command line utility"
     )
 
